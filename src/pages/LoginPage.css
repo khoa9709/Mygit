@@ -1,0 +1,33 @@
+.window {
+    background-color: #dcc6f9;
+    width: 100vw;
+    height: 100vh;
+    }
+     
+    .login-body {
+        margin: auto;
+        background-color: #fff;
+       min-width: 50%;
+        min-height: 50%;
+        border-radius: 10px;
+        padding: 50px;
+    }
+    
+    .form-login-container {
+        padding: 20px;
+        border: 1px solid grey;
+        border-radius: 4px;
+    }
+    
+    .login-background {
+        text-align: center;
+    }
+    
+    .login-background img{
+       width: 400px;
+       height: 500px;
+    }
+    .social-btn
+    {
+        border: 1px solid #000;
+    }
